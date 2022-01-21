@@ -16,19 +16,22 @@ public class pertemuan01 {
         System.out.println("2. Semangka");
         System.out.println("3. Durian");
         System.out.println("4. Salak");
-
+        
+        System.out.println();
         System.out.println("Nama Buah:\b");
         System.out.println("1. Manggis\b");
         System.out.println("2. Semangka\b");
         System.out.println("3. Durian\b");
         System.out.println("4. Salak\b");
-
+        
+        System.out.println();
         System.out.println("Nama Buah:\n");
         System.out.println("1. Manggis\n");
         System.out.println("2. Semangka\n");
         System.out.println("3. Durian\n");
         System.out.println("4. Salak\n");
-
+        
+        System.out.println();
         System.out.println("\tNama Buah:");
         System.out.println("\t1. Manggis");
         System.out.println("\t2. Semangka");
